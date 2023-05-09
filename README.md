@@ -9,9 +9,9 @@ This project learns the use of SQLalchemy, part of python SQL toolkit to access,
 This project is divided into 2 sections:
 
 First part of project would be utilising Jupyter notebook and importing python SQL libraries, matplotlib, and pandas to explore climate data. 
-2 CVS files would be used to for data exploration and analysis.
+2 CSV files would be used to for data exploration and analysis.
 
-Second part of project is to utlise flask from python library to design climate web page. 
+Second part of project is to utlise flask from python library to design climate web page. Database is given as SQlite file. 
 
 ### Benefits of SQLalchemy
  - It provides a common interface for all type of database
@@ -26,7 +26,7 @@ Second part of project is to utlise flask from python library to design climate 
 
 ## Project Method
 
-###First section: Analyse and explore climate data
+### First section: Analyse and explore climate data
 
-####First analysis: Precipitation analysis
+#### First analysis: Precipitation analysis
 
